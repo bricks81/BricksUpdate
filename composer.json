@@ -1,0 +1,20 @@
+{
+    "name": "bricks81/bricks-update",
+    "description": "Bricks CMS Framework - User",
+    "license": "MIT",
+    "keywords": [
+        "bricks",
+        "update"
+    ],
+    "homepage": "https://www.bricks-cms.org",
+    "autoload": {
+        "psr-4": {
+            "Bricks\\Update\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.0",
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false    
+}
